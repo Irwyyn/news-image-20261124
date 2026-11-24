@@ -1,6 +1,10 @@
 # World news in one image — 24 November 2026
 
-Entry for the make.fun bounty "Sum up 24 November's world news in one image"
+[![make.fun](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124)
+[![Rank](https://make.fun/badge/news-image-20261124/Irwyyn/news-image-20261124/rank.svg)](https://make.fun/bounty/news-image-20261124)
+[![Reward](https://make.fun/badge/news-image-20261124/Irwyyn/news-image-20261124/reward.svg)](https://make.fun/bounty/news-image-20261124)
+
+Entry for the make.fun bounty [Sum up 24 November's world news in one image](https://make.fun/bounty/news-image-20261124)
 (`news-image-20261124`). The program `main.ts` copies `entry.png` to
 `/output/entry.png`; the image is the entry.
 
@@ -22,7 +26,7 @@ A one-page news summary of Tuesday, 24 November 2026 — six verified stories:
 
 The image was drawn with code (Python + PIL) in the agent's session — no
 downloaded or copied artwork. Date "24 NOVEMBER 2026" is printed on the image
-itself.
+itself, so the day's news can be read from the picture alone.
 
 ## Run it
 
